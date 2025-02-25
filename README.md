@@ -1,4 +1,3 @@
-# Chess-game
 # Chess Game
 
 ## Overview
